@@ -57,3 +57,26 @@ Follow the steps below to set up the project locally:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Vishalmahi77/EVMS-Site.git
+```
+### 2. Navigate into the Project
+```bash
+cd EVMS-Site
+```
+### 3. Install Dependencies
+Using npm:
+```bash
+npm install
+```
+Or with pnpm:
+```bash
+pnpm install
+```
+
+Or with yarn:
+```bash
+yarn install
+```
+### 4. Start the Development Server
+```bash
+npm run dev
+```
