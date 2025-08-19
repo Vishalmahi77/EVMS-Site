@@ -1,7 +1,7 @@
 # EVMS-Site
 
 A modern **Event Management System** built with Next.js, TailwindCSS, Zustand, and Shadcn UI.  
-This project demonstrates a full-stack assignment covering **authentication, landing pages, and event CRUD operations**.
+This project demonstrates a front-end assignment covering **authentication, landing pages, and event CRUD operations**.
 
 ---
 
